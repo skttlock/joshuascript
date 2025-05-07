@@ -1,0 +1,4 @@
+# Comment with hashtag
+xiny,josh + core.josh => xiny # define compilation
+
+(compile xiny (xiny.josh, core.josh:file)) # define compilation
